@@ -62,4 +62,6 @@ Engineering           Schema 设计 · 平台抽象 · 可维护的测试基础�
 > 让测试更自动化，让知识更可复用，让工程能力真正服务于交付质量。
 
 欢迎通过 GitHub 交流 AI 测试、自动化工程与质量基础设施实践。
+## GitHub Achievements
 
+通过真实的 Issue、Pull Request 和持续交付实践，持续积累公开协作记录。
