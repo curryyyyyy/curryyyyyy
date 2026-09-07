@@ -65,3 +65,7 @@ Engineering           Schema 设计 · 平台抽象 · 可维护的测试基础�
 ## GitHub Achievements
 
 通过真实的 Issue、Pull Request 和持续交付实践，持续积累公开协作记录。
+
+## Collaboration
+
+欢迎围绕 AI 测试、接口自动化和 RAG 工程实践交流。
