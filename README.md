@@ -68,4 +68,4 @@ Engineering           Schema 设计 · 平台抽象 · 可维护的测试基础�
 
 ## Collaboration
 
-欢迎围绕 AI 测试、接口自动化和 RAG 工程实践交流。
+欢迎围绕 AI 测试、接口自动化和 E2E 自动化工程实践交流。
